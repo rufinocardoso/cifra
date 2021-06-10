@@ -1,7 +1,4 @@
-# Cifrador de César
 
-## Desenvolvido por:
-- Juliandro ([JuliandroR](https://github.com/JuliandroR))
 
 
 ## Descrição
